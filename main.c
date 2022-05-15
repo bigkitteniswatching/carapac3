@@ -32,7 +32,7 @@ fprintf(fp, "<!DOCTYPE html><html lang='en'><head> <meta charset='UTF-8'><meta h
 
 fprintf(fp, "<h1>the shrimp blog</h1>\n");
 fprintf(fp, "<p>%s<p>\n", mainbody);
-fprintf(fp, "<title>hunter biden fucked a pig</title>\n");
+fprintf(fp, "<title>test</title>\n");
 fprintf(fp, "<p>author: %s date: %d/%d/%d <p> ", author, day, month, year); 
 fclose(fp);
 
